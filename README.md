@@ -6,8 +6,16 @@ zagnieżdzone punktowania:
 *
   *
   
-## podrozdział
+## podrozdział 1 ##
   
   ~` int x=10 wtrącenie kodu
  ~~~~ c# - grubszy fragment kodu ~~~~
- 
+
+
+
+## bibliografia
+
+* dsh
+
+*fsi
+
