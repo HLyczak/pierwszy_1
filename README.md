@@ -5,8 +5,8 @@ punktowanie to *
 zagnieżdzone punktowania:
 *
   *
- ## podrozdział
+## podrozdział
   
-  ~` int x=10
+  ~` int x=10 wtrącenie kodu
  ~~~~ c# - grubszy fragment kodu ~~~~
  
