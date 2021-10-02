@@ -5,6 +5,7 @@ punktowanie to *
 zagnieżdzone punktowania:
 *
   *
+  
 ## podrozdział
   
   ~` int x=10 wtrącenie kodu
